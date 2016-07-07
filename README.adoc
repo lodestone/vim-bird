@@ -1,0 +1,4 @@
+= Vim Bird Icon
+Matthew Petty <matt@kizmeta.com>
+
+Enjoy this free bird icon for vim or otherwise.
