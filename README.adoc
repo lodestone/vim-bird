@@ -2,3 +2,9 @@
 Matthew Petty <matt@kizmeta.com>
 
 Enjoy this free bird icon for vim or otherwise.
+
+image::https://raw.githubusercontent.com/lodestone/vim-bird/master/Vim-Bird-Icon.png[]
+
+MIT LICENSE
+
+Copyright (c) 2016 Matthew Petty <matt@kizmeta.com>
